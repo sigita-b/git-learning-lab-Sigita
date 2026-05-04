@@ -1,3 +1,0 @@
-# Students
-
-## Sigita Bremmere
