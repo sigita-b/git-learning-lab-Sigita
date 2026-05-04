@@ -1,3 +1,3 @@
-# Studentu saraksts
+# Students
 
-## Sigita_Bremmere
+## Sigita Bremmere
